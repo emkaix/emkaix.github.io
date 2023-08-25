@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.emkaix.at'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'mkx Blog'
 theme = 'terminal'
 paginate = 5
 
