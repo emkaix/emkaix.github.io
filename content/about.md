@@ -4,6 +4,4 @@ date = "2023-08-23"
 author = "mkx"
 +++
 
-# Hi there
-
-Placeholder
+Student at Vienna University of Technology focusing on cybersecurity.
