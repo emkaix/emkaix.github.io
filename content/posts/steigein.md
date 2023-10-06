@@ -17,7 +17,7 @@ Out of curiosity, I wanted to check it out.
 
 [{{< image src="/img/steig_ein/folder.png" position="center" style="border-radius: 8px;" >}}](/img/steig_ein/folder.png)
 
-The directory structure is nothing special, there is the main executable `steigein.exe` which launches the main program, as well as another executable `InternetUpdater.exe` which can be used to update the software. When I tried to start the main program, a windows popped up, stating:
+The directory structure is nothing special, there is the main executable `steigein.exe` which launches the main program, as well as another executable `InternetUpdater.exe` which can be used to update the software. When I tried to start the main program, a window popped up, stating:
 
 > The license information on the USB drive is invalid.
 
